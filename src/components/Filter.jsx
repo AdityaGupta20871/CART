@@ -26,7 +26,7 @@ const Filter = () => {
               }
               checked={sort === "lowToHigh"}
             />
-            <label htmlFor="inline-1">Sort by Max Price</label>
+            <label htmlFor="inline-1">Sort by Min Price</label>
           </span>
           <span>
             <input
@@ -41,7 +41,7 @@ const Filter = () => {
               }
               checked={sort === "highToLow"}
             />
-            <label htmlFor="inline-2">Sort by Min Price</label>
+            <label htmlFor="inline-2">Sort by Max Price</label>
           </span>
         </div>
         <button
