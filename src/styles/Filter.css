@@ -87,6 +87,9 @@
         width: 100%;
         padding: 10px;
         position: sticky;
+        box-shadow: none;
+        background: none;
+        backdrop-filter: none;       
     }
 
     .title {

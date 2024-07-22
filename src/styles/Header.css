@@ -121,11 +121,11 @@
     }
 
     .dropdown {
-        display: none;
+        display: block;
     }
 
     .hamburger {
-        display: block;
+        display: none;
     }
 
     .menu {
