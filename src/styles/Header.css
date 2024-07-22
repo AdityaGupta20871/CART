@@ -116,9 +116,6 @@
 }
 
 @media (max-width: 768px) {
-    .search-container {
-        display: none;
-    }
 
     .dropdown {
         display: block;
